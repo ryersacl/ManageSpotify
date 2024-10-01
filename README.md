@@ -32,7 +32,7 @@ Cliquer sur le lien Auth URL et créer un fichier "terraform.tfvars" contenant :
 
 *api_key = "your_spotify_api_key_return_in_your_terminal_after_passing_the_auth_url"*
 
-## Initialiser Terraform
+## Initialiser Terraform
 
 *terraform init*
 
