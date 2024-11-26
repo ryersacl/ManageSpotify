@@ -6,7 +6,7 @@ https://developer.hashicorp.com/terraform/install
 
 ## Copier le répertoire en local
 
-*git clone https://github.com/ryersacl/ManageSpotify/*
+*git clone https://github.com/ryersacl/ManageSpotify.git*
 *cd ManageSpotify/*
 
 ## Créer une application API sur Spotify Developper
